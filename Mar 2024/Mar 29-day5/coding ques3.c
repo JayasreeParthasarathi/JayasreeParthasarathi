@@ -1,0 +1,1 @@
+/*Inverted left half pyramid*/
