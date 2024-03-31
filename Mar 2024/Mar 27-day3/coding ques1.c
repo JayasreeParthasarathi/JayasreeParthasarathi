@@ -1,0 +1,1 @@
+/*Program to check whether the given number is prime number or not*/
