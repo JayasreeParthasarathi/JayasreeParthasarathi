@@ -1,4 +1,4 @@
-/*Pattern printing right half pyramid*/
+/*Pattern printing left half pyramid*/
 #include <stdio.h>
 int main()
 {
