@@ -1,1 +1,1 @@
-/*Left half pyramid*/
+/*Right half pyramid*/
