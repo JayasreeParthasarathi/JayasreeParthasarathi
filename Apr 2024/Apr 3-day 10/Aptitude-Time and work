@@ -3,9 +3,32 @@
        B.42 days
        C.30 days
        D.36 days
+Solution:
+                       1 day 
+       4m+6w=====>    1/8 amount of work -------> 1
+       3m+7w=====>    1/10 amount of work-------> 2
+1*3===>12m+18w=3/8----->3
+2*4===>12m+28w=4/10---->4
+4-3====> 10w=4/10-3/8
+lcm of 10 and 8 is 40
+therefore,  10w=16-15/40
+            10w=1/40 by using invert rule then 10 women will complete the work in 40 days. 
+Option a is correct
 
 2. If 10 carpenters working 4 hours a day can make 320 chairs in 200 days, then number of chairs made by 16 carpenters in 32 days each working 6 hours in a day
        A.120
        B.122
        C.123
        D.124
+Solution:
+
+       no of carpenters              days       hours             1 day work             no of chairs
+              10                     200         4  = 200*4=800==>   1/800                    320
+              16                     32          6  = 32*6=192===>   1/192                     ?
+
+when cross multiplying it becomes====>   10/192  *  ? = 320 * 16/800
+                                          ?= 320*16*192/800*10
+                                          ?= 122.88
+                            so nearly ? = 123
+Option c is correct
+
