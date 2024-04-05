@@ -25,3 +25,19 @@ A,30 days
 B,40 days
 C,60 days
 D,70 days
+Solution:
+let x and y be the one day work done by a and b respectively,
+                        1 day work
+            x+y      =      1/30------>equ 1
+a worked for 16 days so 16*x=16x
+b worked for 44 dats so 44*y=44y
+Total work is 1
+            16x+44y=1------>equ 2
+solving equ 1 and 2                   multiply 16 in equ 1----> 16x+16y=1/30*16
+                                                                16x+44y=1
+                                                equ2 - equ1===>28y=1-16/30
+                                                            ==>28y=30-16/30
+                                                               y=14/30*28
+                                                               y=1/60
+Therefore B alone takes to complete the whole work is 60 days
+Option c is correct
