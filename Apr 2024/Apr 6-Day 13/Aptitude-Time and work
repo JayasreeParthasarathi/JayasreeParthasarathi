@@ -5,6 +5,14 @@ B) 36 days
 C) 64 days
 D) 72 days
 E) 96 days
+Solution:
+                      1 day work
+    12 m or 18 b          1/48
+then 1man====>1/48*12
+similarly 1 boy===>1/48*18
+the 6 men =====>6/48*12===>1/96 therefore 6 men take 96 days
+similarly 9 boys===>9/48*18====>1/96 therefore 9 boys take 96 days
+Option e is correct
 
 2.Akash can recap a field in 45 days and Vishal is 200% more expert than Akash to reap the field, then find total time taken to reap the field by Vishal.
 
@@ -13,3 +21,12 @@ B) 20
 C) 22
 D) 25
 E) 30
+Solution:
+                            1 day work
+          Akash                1/45
+let take akash's efficiency 100%
+  Akash                        100              1/45
+  Vishal 200% more than akash  300              300% of 1/45=====> 300/100*1/45======>1/15
+then vishal takes 15 days to complete the work
+Option a is correct
+  
