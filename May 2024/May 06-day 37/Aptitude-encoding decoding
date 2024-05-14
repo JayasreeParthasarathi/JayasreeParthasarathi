@@ -1,11 +1,33 @@
-If in a certain code, "TIGER" is written as "VLJGT", how is "LION" written in that code?
+1.If in a certain code, "TIGER" is written as "VLJGT", how is "LION" written in that code?
 a) NQKR
 b) NQJR
 c) MQKR
 d) MQJR
+solution:
+              A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+              Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+              1  2  3  4  5  6  7  8  9 10 11 12 13 14  15 16 17 18 19 20 21 22 23 24 25 26
+From the above coding, t+2=22=v
+                       i+3=12=l
+                       g+3=10=j
+                       e+2=7=g
+                       r+2=20=t
+In the above coding there is no pattern
+no option is correct
 
 In a certain code language, "WATER" is written as "YCVGT". How is "FIRE" written in that code?
 a) GKTG
 b) GKSG
 c) GKTJ
 d) GKQG
+solution:
+              A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+              Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+              1  2  3  4  5  6  7  8  9 10 11 12 13 14  15 16 17 18 19 20 21 22 23 24 25 26
+From the above coding, each letter is added with 2
+              so the answer is f+2=h
+                               i+2=k
+                               r+2=t
+                               e+2=g
+The answer is hktg
+
