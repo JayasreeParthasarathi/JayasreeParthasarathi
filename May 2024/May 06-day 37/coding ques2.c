@@ -1,0 +1,1 @@
+/*Hollow square pattern printing*/
