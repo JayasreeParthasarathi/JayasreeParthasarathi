@@ -1,0 +1,1 @@
+/*Remove all characters in the string except characters and numbers*/
