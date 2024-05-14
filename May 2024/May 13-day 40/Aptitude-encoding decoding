@@ -4,9 +4,23 @@ A) 246173
 B) 214673
 C) 214763
 D) 216473
+solution:
+        ROSE------>6821
+        CHAIR----->73456
+        PREACH---->961473
+so SEARCH------> 214673
+Option b is correct
+
 2.In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?
 
 A) SHFDQ
 B) HFDSQ
 C) RSAFD
 D) QDFHS
+solution:
+              
+              MONKEY----->YEKNOM(reverse orderaa)
+decrease by 1------------>XDJMNL
+the answer is TIGER------>REGIT
+decrease by 1 ----------->QDFHS
+Option d is correct
