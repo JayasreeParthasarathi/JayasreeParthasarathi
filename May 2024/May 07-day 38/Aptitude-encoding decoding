@@ -1,13 +1,41 @@
-Fill the missing term : AB,   DEF,  HIJK,  ?,  STUVWX
+1.Fill the missing term : AB,   DEF,  HIJK,  ?,  STUVWX
 
 a)LMNO
 b)LMOP
 c)MNOPQ
 d)QRSTU
+solution:
+              A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+              Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+              1  2  3  4  5  6  7  8  9 10 11 12 13 14  15 16 17 18 19 20 21 22 23 24 25 26
+    MNOPQ
+The option c is correct
 
-If KING  is coded as  5321 ,CHAIN  is coded as  98632, then KICK will be coded as?
+2.If KING  is coded as  5321 ,CHAIN  is coded as  98632, then KICK will be coded as?
 
 a)9535
 b)5395
 C)5359
 d)5935
+solution:
+              A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+              Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+              1  2  3  4  5  6  7  8  9 10 11 12 13 14  15 16 17 18 19 20 21 22 23 24 25 26
+From the above coding,
+      KING:
+              k----->5
+              I----->3
+              N----->2
+              G----->1
+      CHAIN:
+              C----->9
+              H----->8
+              A----->6
+              I----->3
+              N----->2
+      KICK:
+              k----->5
+              I----->3
+              C----->9
+              k----->5
+Option b is correct
