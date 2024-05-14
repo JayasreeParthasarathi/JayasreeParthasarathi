@@ -4,6 +4,15 @@ B, KLMA
 C, LLMA
 D, KLLA
 solution:
+              A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+              Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+              1  2  3  4  5  6  7  8  9 10 11 12 13 14  15 16 17 18 19 20 21 22 23 24 25 26
+From the above coding   L and A are same and the remaining letters are increased by 2
+so the answer is  I+2=K
+                  L
+                  J+2=L
+                  A
+Option d is correct
 
 2.In a certain code, MENTION is written as LNEITNO. How is PATTERN written in that code? 
 
@@ -12,3 +21,14 @@ solution:
 (c) OTAETNR      
 (d) OTAETRN        
 (e) None of these
+solution:
+              A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+              Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+              1  2  3  4  5  6  7  8  9 10 11 12 13 14  15 16 17 18 19 20 21 22 23 24 25 26
+In this question the first letter is decreased by 1 and the remaining letters are interchanged with their adjacent letters.
+so the answer is   p-1=o
+                   at=ta
+                   te=et
+                   rn=nr
+answer is otaetnr
+Option c is correct
